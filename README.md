@@ -72,25 +72,25 @@ Each category holds 10 hand‑picked applications (150+ total) with their **corr
 ### 1️⃣ Download the script
 
 ```bash
-git clone https://github.com/mmizan85/LinuxSetup-CLI.git
+git clone https://github.com/mmizan85/LinuxSetup.git
 
-cd LinuxSetup-CLI
+cd LinuxSetup
 ```
 ### Or simply grab the raw file:
 
 ```bash
 
-wget https://raw.githubusercontent.com/your-username/LinuxSetup-CLI/main/linuxsetup.sh
+wget https://raw.githubusercontent.com/your-username/LinuxSetup-CLI/main/LinuxSetup.sh
 ```
 
 ### 2️⃣ Make it executable
 ```bash
-chmod +x linuxsetup.sh
+chmod +x LinuxSetup
 ```
 
 ### 3️⃣ Run the installer
 ```bash
-./linuxsetup.sh
+./LinuxSetup
 ```
 
 Note: Some installations will ask for your password (sudo). The script will prompt you when needed.
