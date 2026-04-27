@@ -162,13 +162,13 @@ add_app "05" "002" "unrar|unRAR|apt:unrar|Free|any|any|"
 You can add hundreds more by following the same pattern (category number, item number, pipe‑separated fields). The fields are:
 
 Field	  Meaning
-**ID**	  Short identifier (e.g., `unrar`)
-**Name**	  Human‑readable name (`unRAR`)
-**Methods**	  `method:pkg,method:pkg,…` (apt, snap, flatpak, custom)
-**License**	  Free, Paid, Freemium, Trial
-**Arch**	  Supported arch (`x86_64`, `any`)
-**Distro**	  Compatible distro (`any`, `debian`,`ubuntu`)
-**Extra**	  Additional info (optional)
+- **ID**	  Short identifier (e.g., `unrar`)
+- **Name**	  Human‑readable name (`unRAR`)
+- **Methods**	  `method:pkg,method:pkg,…` (apt, snap, flatpak, custom)
+- **License**	  Free, Paid, Freemium, Trial
+- **Arch**	  Supported arch (`x86_64`, `any`)
+- **Distro**	  Compatible distro (`any`, `debian`,`ubuntu`)
+- **Extra**	  Additional info (optional)
 
 ---
 
