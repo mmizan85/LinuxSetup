@@ -80,7 +80,7 @@ cd LinuxSetup
 
 ```bash
 
-wget https://raw.githubusercontent.com/your-username/LinuxSetup-CLI/main/LinuxSetup.sh
+wget https://raw.githubusercontent.com/mmizan85/LinuxSetup/main/LinuxSetup.sh
 ```
 
 ### 2️⃣ Make it executable
